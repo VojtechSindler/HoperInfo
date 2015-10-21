@@ -1,0 +1,18 @@
+c:\users\vojtěch\documents\visual studio 2012\Projects\Projekt_kraj\Projekt_kraj\bin\Debug\Projekt_kraj.exe.config
+c:\users\vojtěch\documents\visual studio 2012\Projects\Projekt_kraj\Projekt_kraj\bin\Debug\Projekt_kraj.exe
+c:\users\vojtěch\documents\visual studio 2012\Projects\Projekt_kraj\Projekt_kraj\bin\Debug\Projekt_kraj.pdb
+c:\users\vojtěch\documents\visual studio 2012\Projects\Projekt_kraj\Projekt_kraj\obj\Debug\Projekt_kraj.csprojResolveAssemblyReference.cache
+c:\users\vojtěch\documents\visual studio 2012\Projects\Projekt_kraj\Projekt_kraj\obj\Debug\Projekt_kraj.exe
+c:\users\vojtěch\documents\visual studio 2012\Projects\Projekt_kraj\Projekt_kraj\obj\Debug\Projekt_kraj.pdb
+C:\Users\Vojta\Documents\Projekt_kraj\Projekt_kraj\bin\Debug\Projekt_kraj.exe.config
+C:\Users\Vojta\Documents\Projekt_kraj\Projekt_kraj\obj\Debug\Projekt_kraj.exe
+C:\Users\Vojta\Documents\Projekt_kraj\Projekt_kraj\obj\Debug\Projekt_kraj.pdb
+C:\Users\Vojta\Documents\Projekt_kraj\Projekt_kraj\bin\Debug\Projekt_kraj.exe
+C:\Users\Vojta\Documents\Projekt_kraj\Projekt_kraj\bin\Debug\Projekt_kraj.pdb
+C:\Users\Vojta\Documents\Projekt_kraj\Projekt_kraj\obj\Debug\Projekt_kraj.csprojResolveAssemblyReference.cache
+C:\Users\Vojta\Documents\GitHub\Kraj_projekt\Projekt_kraj\bin\Debug\Projekt_kraj.exe.config
+C:\Users\Vojta\Documents\GitHub\Kraj_projekt\Projekt_kraj\obj\Debug\Projekt_kraj.exe
+C:\Users\Vojta\Documents\GitHub\Kraj_projekt\Projekt_kraj\obj\Debug\Projekt_kraj.pdb
+C:\Users\Vojta\Documents\GitHub\Kraj_projekt\Projekt_kraj\bin\Debug\Projekt_kraj.exe
+C:\Users\Vojta\Documents\GitHub\Kraj_projekt\Projekt_kraj\bin\Debug\Projekt_kraj.pdb
+C:\Users\Vojta\Documents\GitHub\Kraj_projekt\Projekt_kraj\obj\Debug\Projekt_kraj.csprojResolveAssemblyReference.cache

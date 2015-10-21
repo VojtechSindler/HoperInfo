@@ -1,0 +1,67 @@
+<PC>
+  <SystemInfo>
+    <Manufacturer>LENOVO</Manufacturer>
+    <Model>20091</Model>
+    <ComterNape>VOJTA-PC</ComterNape>
+    <Domain>WORKGROUP</Domain>
+    <BIOSVersion>LENOVO - 1 - InsydeH2O Version 03.60.4147CN31WW(V2.09)</BIOSVersion>
+  </SystemInfo>
+  <CPUs>
+    <CPU>
+      <Name>Intel(R) Core(TM) i5-2430M CPU @ 2.40GHz</Name>
+      <Cores>2</Cores>
+      <LocicalCores>4</LocicalCores>
+    </CPU>
+  </CPUs>
+  <WindowsInfo />
+  <GPUs>
+    <GPU>Intel(R) HD Graphics 3000</GPU>
+    <GPU>NVIDIA GeForce GT 555M </GPU>
+  </GPUs>
+  <HDDs>
+    <HDD>
+      <Name>WDC WD7500BPVT-24HXZT3</Name>
+      <Size>750 GB</Size>
+    </HDD>
+  </HDDs>
+  <CD-DVD_ROMs>
+    <CD-DVD_ROM>
+      <Name>MATSHITA DVD-RAM UJ8B1AS</Name>
+    </CD-DVD_ROM>
+  </CD-DVD_ROMs>
+  <RAM>
+    <Memory>
+      <Camacity>4182052 GB</Camacity>
+      <Speed>1333 Hz</Speed>
+    </Memory>
+  </RAM>
+  <NICs>
+    <NIC>
+      <Camacity>Broadcom NetLink (TM) Gigabit Ethernet</Camacity>
+    </NIC>
+    <NIC>
+      <Camacity>Intel(R) Centrino(R) Wireless-N 1000</Camacity>
+    </NIC>
+    <NIC>
+      <Camacity>Adaptér tunelového režimu Microsoft Teredo</Camacity>
+    </NIC>
+    <NIC>
+      <Camacity>TAP-Win32 Adapter V9</Camacity>
+    </NIC>
+    <NIC>
+      <Camacity>Microsoft ISATAP Adapter</Camacity>
+    </NIC>
+    <NIC>
+      <Camacity>Virtuální adaptér Microsoft hostované sítě</Camacity>
+    </NIC>
+  </NICs>
+  <SoundCards>
+    <SoundCard>
+      <Name>Realtek High Definition Audio</Name>
+    </SoundCard>
+    <SoundCard>
+      <Name>Zvukové zařízení High Definition Audio</Name>
+    </SoundCard>
+  </SoundCards>
+  <Programs />
+</PC>

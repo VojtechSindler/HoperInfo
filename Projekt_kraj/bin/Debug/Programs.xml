@@ -1,0 +1,373 @@
+<PC>
+  <SystemInfo>
+    <Manufacturer>LENOVO</Manufacturer>
+    <Model>20091</Model>
+    <BIOSVersion>LENOVO - 1 - InsydeH2O Version 03.60.4147CN31WW(V2.09)</BIOSVersion>
+  </SystemInfo>
+  <CPUs>
+    <CPU>
+      <Name>Intel(R) Core(TM) i5-2430M CPU @ 2.40GHz</Name>
+      <Cores>2</Cores>
+      <LocicalCores>4</LocicalCores>
+    </CPU>
+  </CPUs>
+  <WindowsInfo />
+  <GPUs>
+    <GPU>Intel(R) HD Graphics 3000</GPU>
+    <GPU>NVIDIA GeForce GT 555M </GPU>
+  </GPUs>
+  <HDDs>
+    <HDD>
+      <Name>WDC WD7500BPVT-24HXZT3</Name>
+      <Size>750 GB</Size>
+    </HDD>
+  </HDDs>
+  <CD-DVD_ROMs>
+    <CD-DVD_ROM>
+      <Name>MATSHITA DVD-RAM UJ8B1AS</Name>
+    </CD-DVD_ROM>
+  </CD-DVD_ROMs>
+  <RAM>
+    <Memory>
+      <Camacity>4 GB</Camacity>
+      <Speed>1333 Hz</Speed>
+    </Memory>
+  </RAM>
+  <NICs>
+    <NIC>
+      <Camacity>Broadcom NetLink (TM) Gigabit Ethernet</Camacity>
+    </NIC>
+    <NIC>
+      <Camacity>Intel(R) Centrino(R) Wireless-N 1000</Camacity>
+    </NIC>
+    <NIC>
+      <Camacity>Adaptér tunelového režimu Microsoft Teredo</Camacity>
+    </NIC>
+    <NIC>
+      <Camacity>TAP-Win32 Adapter V9</Camacity>
+    </NIC>
+    <NIC>
+      <Camacity>Microsoft ISATAP Adapter</Camacity>
+    </NIC>
+    <NIC>
+      <Camacity>Virtuální adaptér Microsoft hostované sítě</Camacity>
+    </NIC>
+  </NICs>
+  <SoundCards>
+    <SoundCard>
+      <Name>Realtek High Definition Audio</Name>
+    </SoundCard>
+    <SoundCard>
+      <Name>Zvukové zařízení High Definition Audio</Name>
+    </SoundCard>
+  </SoundCards>
+  <Programs>
+    <Program>Google Talk Plugin</Program>
+    <Program>Node.js</Program>
+    <Program>Secure Download Manager</Program>
+    <Program>ABBYY FineReader 10 Professional Edition</Program>
+    <Program>Microsoft Application Error Reporting</Program>
+    <Program>Microsoft Office Office 32-bit Components 2010</Program>
+    <Program>Microsoft Office Shared 32-bit MUI (English) 2010</Program>
+    <Program>Microsoft Office Visio MUI (English) 2010</Program>
+    <Program>Microsoft Office Shared Setup Metadata MUI (English) 2010</Program>
+    <Program>Microsoft Office Proofing (English) 2010</Program>
+    <Program>Microsoft Office Shared MUI (English) 2010</Program>
+    <Program>Microsoft Office Proof (English) 2010</Program>
+    <Program>Microsoft Office Proof (Spanish) 2010</Program>
+    <Program>Microsoft Office Proof (French) 2010</Program>
+    <Program>Microsoft Office Visio 2010</Program>
+    <Program>Microsoft DCF MUI (Czech) 2013</Program>
+    <Program>Microsoft Office Professional Plus 2013</Program>
+    <Program>Microsoft OneNote MUI (Czech) 2013</Program>
+    <Program>Microsoft Office 32-bit Components 2013</Program>
+    <Program>Microsoft Office Shared 32-bit MUI (Czech) 2013</Program>
+    <Program>Microsoft Office OSM MUI (Czech) 2013</Program>
+    <Program>Microsoft Office OSM UX MUI (Czech) 2013</Program>
+    <Program>Microsoft InfoPath MUI (Czech) 2013</Program>
+    <Program>Microsoft Access MUI (Czech) 2013</Program>
+    <Program>Microsoft Excel MUI (Czech) 2013</Program>
+    <Program>Microsoft PowerPoint MUI (Czech) 2013</Program>
+    <Program>Microsoft Publisher MUI (Czech) 2013</Program>
+    <Program>Microsoft Outlook MUI (Czech) 2013</Program>
+    <Program>Microsoft Groove MUI (Czech) 2013</Program>
+    <Program>Microsoft Word MUI (Czech) 2013</Program>
+    <Program>Microsoft Lync MUI (Czech) 2013</Program>
+    <Program>Microsoft Office Proofing (Czech) 2013</Program>
+    <Program>Microsoft Office Shared MUI (Czech) 2013</Program>
+    <Program>Nástroje kontroly pravopisu pro Microsoft Office 2013 – čeština</Program>
+    <Program>Microsoft Office Korrekturhilfen 2013 - Deutsch</Program>
+    <Program>Microsoft Office Proofing Tools 2013 - English</Program>
+    <Program>Nástroje korektúry balíka Microsoft Office 2013 - slovenčina</Program>
+    <Program>Microsoft SQL Server System CLR Types</Program>
+    <Program>Microsoft .NET Framework 4.5.1 Multi-Targeting Pack</Program>
+    <Program>Microsoft SQL Server Compact 4.0 SP1 x64 ENU</Program>
+    <Program>SQL Server 2014 Distributed Replay</Program>
+    <Program>Microsoft Help Viewer 1.1</Program>
+    <Program>SQL Server 2014 Integration Services</Program>
+    <Program>Windows Software Development Kit for Windows Store Apps</Program>
+    <Program>Blend for Visual Studio SDK for .NET 4.5</Program>
+    <Program>Microsoft Visual Studio Ultimate 2013 XAML UI Designer Core</Program>
+    <Program>Windows Runtime Intellisense Content - en-us</Program>
+    <Program>Microsoft Visual C++ 2013 x86-x64 Compilers</Program>
+    <Program>SQL Server 2014 SQL Data Quality Common</Program>
+    <Program>SQL Server 2014 Data quality client</Program>
+    <Program>Microsoft SQL Server 2014 Transact-SQL ScriptDom </Program>
+    <Program>Microsoft .NET Framework 4.5 Multi-Targeting Pack</Program>
+    <Program>SQL Server 2014 RS_SharePoint_SharedService</Program>
+    <Program>SharePoint Client Components</Program>
+    <Program>Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148</Program>
+    <Program>Energy Management</Program>
+    <Program>Microsoft_VC90_CRT_x86</Program>
+    <Program>Workflow Manager Tools 1.0 for Visual Studio</Program>
+    <Program>Microsoft Advertising SDK for Windows 8.1 - ENU</Program>
+    <Program>SQL Server 2014 Integration Services</Program>
+    <Program>Microsoft Visual Studio 2013 Shell (Minimum) Resources</Program>
+    <Program>Windows App Certification Kit Native Components</Program>
+    <Program>Microsoft Visual Studio Premium 2013 - ENU</Program>
+    <Program>SQL Server 2014 Data quality service</Program>
+    <Program>Sql Server Customer Experience Improvement Program</Program>
+    <Program>Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219</Program>
+    <Program>Microsoft SQL Server 2012 Express LocalDB </Program>
+    <Program>Microsoft Visual Studio Ultimate 2013 - ENU</Program>
+    <Program>Microsoft_VC80_CRT_x86_x64</Program>
+    <Program>Microsoft Visual C++ 2005 Redistributable (x64)</Program>
+    <Program>PreEmptive Analytics Visual Studio Components</Program>
+    <Program>Microsoft C++ REST SDK for Visual Studio 2013</Program>
+    <Program>Microsoft Visual Studio 2013 Performance Collection Tools</Program>
+    <Program>Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219</Program>
+    <Program>Microsoft Visual C++ 2013 Compilers</Program>
+    <Program>Adobe AIR</Program>
+    <Program>Microsoft_VC80_MFC_x86</Program>
+    <Program>Microsoft Visual Studio Premium 2013</Program>
+    <Program>Microsoft SQL Server 2014 Express LocalDB </Program>
+    <Program>Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005</Program>
+    <Program>Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005</Program>
+    <Program>Build Tools Language Resources - amd64</Program>
+    <Program>Microsoft_VC80_MFCLOC_x86</Program>
+    <Program>Microsoft .NET Framework 4.5.1 Multi-Targeting Pack (ENU)</Program>
+    <Program>Visual F# 3.1 SDK</Program>
+    <Program>Workflow Manager Client 1.0</Program>
+    <Program>Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps</Program>
+    <Program>Microsoft Report Viewer Add-On for Visual Studio 2013</Program>
+    <Program>Microsoft SQL Server 2014 RsFx Driver</Program>
+    <Program>Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.50727</Program>
+    <Program>Visual Studio 2010 Prerequisites - English</Program>
+    <Program>Microsoft Visual C++ 2013 x86 Debug Runtime - 12.0.21005</Program>
+    <Program>Microsoft Visual Studio Ultimate 2013</Program>
+    <Program>Windows Software Development Kit</Program>
+    <Program>Microsoft ASP.NET MVC 3</Program>
+    <Program>Microsoft Visual C++ 2010  x86 Runtime - 10.0.40219</Program>
+    <Program>Open XML SDK 2.5 for Microsoft Office</Program>
+    <Program>Microsoft NuGet - Visual Studio 2013</Program>
+    <Program>Microsoft Visual C++ 2013 Microsoft Foundation Class Libraries</Program>
+    <Program>Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.50727</Program>
+    <Program>Microsoft Visual Studio 2013 VsGraphics Helper Dependencies</Program>
+    <Program>Build Tools - amd64</Program>
+    <Program>LocalESPC Dev12</Program>
+    <Program>SQL Server 2014 Database Engine Services</Program>
+    <Program>Windows Software Development Kit for Windows Store Apps DirectX x86 Remote</Program>
+    <Program>Windows XP Targeting with C++</Program>
+    <Program>Microsoft .NET Framework 4.5 SDK</Program>
+    <Program>Microsoft SQL Server 2008 Setup Support Files </Program>
+    <Program>Microsoft SQL Server 2014 Setup (English)</Program>
+    <Program>Microsoft Visual Studio Professional 2013 - ENU</Program>
+    <Program>Prerequisites for SSDT </Program>
+    <Program>Microsoft Visual Studio Professional 2013</Program>
+    <Program>Microsoft Visual Studio 2013 Devenv</Program>
+    <Program>Microsoft Visual Studio 2010 Shell (Isolated) - ENU</Program>
+    <Program>SQL Server 2014 Common Files</Program>
+    <Program>WCF Data Services Tools for Microsoft Visual Studio 2013</Program>
+    <Program>VMware vSphere Client 5.5</Program>
+    <Program>Microsoft SQL Server Data Tools - enu (11.1.20627.00)</Program>
+    <Program>Microsoft Silverlight 4 SDK</Program>
+    <Program>SQL Server 2014 Analysis Services</Program>
+    <Program>SQL Server 2014 Master Data Services</Program>
+    <Program>Microsoft Visual Studio 2010 Tools for Office Runtime (x64)</Program>
+    <Program>Visual F# 3.1 VS</Program>
+    <Program>Microsoft Silverlight 5 SDK</Program>
+    <Program>Microsoft_VC90_MFC_x86_x64</Program>
+    <Program>Java 7 Update 17 (64-bit)</Program>
+    <Program>Java SE Development Kit 7 Update 17 (64-bit)</Program>
+    <Program>Microsoft SQL Server 2008 R2 Management Objects</Program>
+    <Program>Microsoft SQL Server 2012 T-SQL Language Service </Program>
+    <Program>Microsoft Visual C++  x64-x86 Cross Compilers - ENU Resources</Program>
+    <Program>Microsoft VSS Writer for SQL Server 2014</Program>
+    <Program>Microsoft SQL Server Data Tools Build Utilities - enu (11.1.20627.00)</Program>
+    <Program>SQL Server 2014 Full text search</Program>
+    <Program>SQL Server 2014 Distributed Replay</Program>
+    <Program>Microsoft SQL Server 2012 Command Line Utilities </Program>
+    <Program>Microsoft Visual Studio Tools for Applications x86 Runtime 3.0</Program>
+    <Program>Microsoft Visual Studio 2013 Devenv Resources</Program>
+    <Program>Microsoft ASP.NET MVC 4 - Visual Studio 2013 - ENU</Program>
+    <Program>SQL Server Browser for SQL Server 2014</Program>
+    <Program>Windows Azure Mobile Services SDK</Program>
+    <Program>ESET Endpoint Antivirus</Program>
+    <Program>Adobe Media Player</Program>
+    <Program>Microsoft ASP.NET MVC 4 Runtime</Program>
+    <Program>Microsoft_VC80_MFC_x86_x64</Program>
+    <Program>Microsoft Visual C++  x64 Native Compilers - ENU Resources</Program>
+    <Program>Intel® Hardware Accelerated Execution Manager</Program>
+    <Program>Microsoft SQL Server 2012 Management Objects  (x64)</Program>
+    <Program>Microsoft ASP.NET Web Pages 2 - Visual Studio 2013 - ENU</Program>
+    <Program>Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005</Program>
+    <Program>Microsoft .NET Framework 4.5.1 RC Multi-Targeting Pack for Windows Store Apps (ENU)</Program>
+    <Program> Tools for .Net 3.5</Program>
+    <Program>Microsoft Team Foundation Server 2013 Object Model (x64)</Program>
+    <Program>Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161</Program>
+    <Program>Windows Software Development Kit DirectX x86 Remote</Program>
+    <Program>WCF Data Services 5.6.0 Runtime</Program>
+    <Program>Adobe Reader XI (11.0.10) - Czech</Program>
+    <Program>Microsoft SQL Server 2012 Data-Tier App Framework </Program>
+    <Program>Blend for Visual Studio 2013</Program>
+    <Program>Microsoft SQL Server 2014 Management Objects  (x64)</Program>
+    <Program>Microsoft ASP.NET Web Frameworks and Tools - Visual Studio 2013 - ENU</Program>
+    <Program>Prerequisites for SSDT </Program>
+    <Program>Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161</Program>
+    <Program>Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005</Program>
+    <Program>Microsoft SQL Server 2012 Management Objects </Program>
+    <Program>Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022</Program>
+    <Program>SQL Server 2014 Documentation Components</Program>
+    <Program>JavaScript Tooling</Program>
+    <Program>Visual Studio 2013 Prerequisites</Program>
+    <Program>LocalESPCui for en-us Dev12</Program>
+    <Program>Microsoft Advertising Service Extension for Visual Studio</Program>
+    <Program>Microsoft Visual C++ 2013 Core Libraries</Program>
+    <Program>Microsoft Visual C++ 2013 Extended Libraries</Program>
+    <Program>Microsoft Expression Blend SDK for .NET 4</Program>
+    <Program>Behaviors SDK (XAML) for Visual Studio</Program>
+    <Program>Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030</Program>
+    <Program>Microsoft Office 2013 Developer Tools for Microsoft Visual Studio (x64)</Program>
+    <Program>Visual Studio 2013 Prerequisites - ENU Language Pack</Program>
+    <Program>Microsoft Visual C++  x64-x86 Cross Compilers</Program>
+    <Program>Microsoft Visual C++ 2013 x64 Debug Runtime - 12.0.21005</Program>
+    <Program>Microsoft_VC80_MFCLOC_x86_x64</Program>
+    <Program>Microsoft Visual C++ 2013  x64 Designtime - 12.0.21005</Program>
+    <Program>League of Legends</Program>
+    <Program>Microsoft C++ Azure Mobile SDK for Visual Studio 2013</Program>
+    <Program>SQL Server 2014 Management Studio</Program>
+    <Program>Microsoft Visual Studio 2013 Performance Collection Tools - ENU</Program>
+    <Program>Entity Framework Designer for Visual Studio 2012 - enu</Program>
+    <Program>Microsoft Visual C++  x64 Libraries</Program>
+    <Program>SQL Server 2014 Data quality client</Program>
+    <Program>Microsoft Web Deploy 3.5</Program>
+    <Program>WCF RIA Services V1.0 SP2</Program>
+    <Program>Microsoft .NET Framework 4 Multi-Targeting Pack</Program>
+    <Program>SQL Server 2014 Database Engine Shared</Program>
+    <Program>Microsoft_VC80_ATL_x86</Program>
+    <Program>NVIDIA PhysX</Program>
+    <Program>Microsoft System CLR Types for SQL Server 2012 (x64)</Program>
+    <Program>Microsoft Visual C++  ARM Libraries</Program>
+    <Program>Microsoft_VC80_CRT_x86</Program>
+    <Program>SQL Server 2014 Analysis Services</Program>
+    <Program>Microsoft Visual C++  x64-arm Cross Compilers - ENU Resources</Program>
+    <Program>Google Update Helper</Program>
+    <Program>Windows Azure Tools for LightSwitch for Visual Studio 2013 - v2.1</Program>
+    <Program>Microsoft LightSwitch for Visual Studio 2013 Core</Program>
+    <Program>Microsoft Visual Studio Tools for Applications x64 Runtime 3.0</Program>
+    <Program>SQL Server 2014 Database Engine Shared</Program>
+    <Program>IIS 8.0 Express</Program>
+    <Program>SQL Server 2014 Master Data Services</Program>
+    <Program>Microsoft SQL Server 2012 Native Client </Program>
+    <Program>Microsoft Visual C++ 2005 Redistributable (x64)</Program>
+    <Program>Microsoft Visual C++ 2013 32bit Compilers - ENU Resources</Program>
+    <Program>Google Update Helper</Program>
+    <Program>Windows Software Development Kit for Windows Store Apps DirectX x64 Remote</Program>
+    <Program>Entity Framework Tools for Visual Studio 2013</Program>
+    <Program>Microsoft SQL Server Data Tools - enu (12.0.50318.0)</Program>
+    <Program>Microsoft Visual Studio 2013 IntelliTrace Core amd64</Program>
+    <Program>PDF Settings CS5</Program>
+    <Program>Adobe Community Help</Program>
+    <Program>SQL Server 2014 Management Studio</Program>
+    <Program>Microsoft Visual Studio 2013 IntelliTrace Front End x86</Program>
+    <Program>Microsoft Visual C++ 2013 Core Libraries</Program>
+    <Program>SQL Server 2014 Reporting Services</Program>
+    <Program>SQL Server 2014 Distributed Replay</Program>
+    <Program>Microsoft Visual Studio 2013 Shell (Minimum) Interop Assemblies</Program>
+    <Program>Microsoft Visual Studio 2013 Team Explorer Language Pack - ENU</Program>
+    <Program>SQL Server 2014 Client Tools</Program>
+    <Program>Microsoft SQL Server 2012 Transact-SQL ScriptDom </Program>
+    <Program>Microsoft ASP.NET Web Pages 2 Runtime</Program>
+    <Program>Microsoft Visual Studio Team Foundation Server 2013 Storyboarding Language Pack (x64) - ENU</Program>
+    <Program>Microsoft_VC90_MFC_x86</Program>
+    <Program>Microsoft Web Deploy dbSqlPackage Provider - enu</Program>
+    <Program>SQL Server 2014 Common Files</Program>
+    <Program>Microsoft_VC80_ATL_x86_x64</Program>
+    <Program>Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.50727</Program>
+    <Program>Build Tools Language Resources - x86</Program>
+    <Program>Microsoft SQL Server Data Tools Build Utilities - enu (12.0.30919.1)</Program>
+    <Program>Microsoft Help Viewer 2.0</Program>
+    <Program>Microsoft SharePoint 2013 Developer Tools for Visual Studio</Program>
+    <Program>Microsoft Portable Library Multi-Targeting Pack Language Pack - enu</Program>
+    <Program>Microsoft Office 2013 Developer Tools for Microsoft Visual Studio (x64) - ENU Language Pack</Program>
+    <Program>Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.50727</Program>
+    <Program>Microsoft System CLR Types for SQL Server 2014</Program>
+    <Program>Microsoft SQL Server 2014 Transact-SQL Compiler Service </Program>
+    <Program>Microsoft Visual C++  x86 Libraries</Program>
+    <Program>Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030</Program>
+    <Program>Microsoft Visual Studio 2013 Shell (Minimum)</Program>
+    <Program>Microsoft Web Developer Tools 2013 - Visual Studio 2013</Program>
+    <Program>Microsoft Visual C++  x64-arm Cross Compilers</Program>
+    <Program>Microsoft Visual C++ 2005 Redistributable</Program>
+    <Program>AzureTools.Notifications</Program>
+    <Program>Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030</Program>
+    <Program>Blend for Visual Studio 2013 ENU resources</Program>
+    <Program>JavaScript Tooling</Program>
+    <Program>Microsoft System CLR Types for SQL Server 2014</Program>
+    <Program>SQL Server 2014 Client Tools</Program>
+    <Program>Microsoft_VC90_ATL_x86_x64</Program>
+    <Program>Microsoft Portable Library Multi-Targeting Pack</Program>
+    <Program>Microsoft System CLR Types for SQL Server 2012</Program>
+    <Program>Microsoft Help Viewer 2.1</Program>
+    <Program>Windows XP Targeting with C++</Program>
+    <Program>Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148</Program>
+    <Program>Microsoft_VC90_CRT_x86_x64</Program>
+    <Program>Microsoft Report Viewer 2014 Runtime</Program>
+    <Program>Microsoft LightSwitch for Visual Studio 2013 CoreRes - ENU</Program>
+    <Program>SQL Server 2014 Reporting Services</Program>
+    <Program>Visual Studio Extensions for Windows Library for JavaScript</Program>
+    <Program>Microsoft .NET Framework 4.5.1 SDK</Program>
+    <Program>Microsoft Silverlight</Program>
+    <Program>SQL Server 2014 Documentation Components</Program>
+    <Program>SQL Server 2014 Documentation Components</Program>
+    <Program>Microsoft Web Platform Installer 4.0</Program>
+    <Program>SQL Server 2014 Distributed Replay</Program>
+    <Program>Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030</Program>
+    <Program>SQL Server 2014 Database Engine Services</Program>
+    <Program>Build Tools - x86</Program>
+    <Program>Microsoft Visual Studio 2013 Preparation</Program>
+    <Program>Microsoft Visual Studio Ultimate 2013 XAML UI Designer enu Resources</Program>
+    <Program>Team Explorer for Microsoft Visual Studio 2013</Program>
+    <Program>Microsoft Visual C++ 2013 Compilers - ENU Resources</Program>
+    <Program>Microsoft SQL Server 2012 Transact-SQL Compiler Service </Program>
+    <Program>Dotfuscator and Analytics Community Edition</Program>
+    <Program>Microsoft SQL Server 2012 Data-Tier App Framework  (x64)</Program>
+    <Program>Microsoft LightSwitch for Visual Studio 2013 v4.0 ToolsRes - ENU</Program>
+    <Program>Microsoft SharePoint 2013 Developer Tools for Visual Studio 2012 Nuget Package</Program>
+    <Program>Windows Software Development Kit DirectX x64 Remote</Program>
+    <Program>Microsoft LightSwitch v4.0 SDK</Program>
+    <Program>Microsoft SQL Server 2014 Policies </Program>
+    <Program>Microsoft_VC90_ATL_x86</Program>
+    <Program>Microsoft ASP.NET Web Pages</Program>
+    <Program>Python Tools Redirection Template</Program>
+    <Program>Microsoft SQL Server System CLR Types (x64)</Program>
+    <Program>Microsoft Visual Studio Team Foundation Server 2013 Storyboarding (x64)</Program>
+    <Program>Microsoft Visual J# 2.0 Redistributable Package - SE (x64)</Program>
+    <Program>Microsoft Team Foundation Server 2013 Object Model Language Pack (x64) - ENU</Program>
+    <Program>Microsoft SQL Server 2014 RS Add-in for SharePoint </Program>
+    <Program>SQL Server 2014 Data quality service</Program>
+    <Program>Microsoft Visual Studio 2013 Profiling Tools</Program>
+    <Program>Microsoft LightSwitch for Visual Studio 2013 v4.0 Tools</Program>
+    <Program>Windows Azure Shared Components for Microsoft Visual Studio 2013 - v1.0</Program>
+    <Program>Windows App Certification Kit x64</Program>
+    <Program>Microsoft SQL Server 2014 Management Objects </Program>
+    <Program>Blend for Visual Studio SDK for Silverlight 5</Program>
+    <Program>Microsoft ODBC Driver 11 for SQL Server</Program>
+    <Program>Microsoft SharePoint 2013 Developer Tools for Visual Studio ENU Language Pack</Program>
+    <Program>Microsoft SQL Server 2014 T-SQL Language Service </Program>
+    <Program>Microsoft Visual Studio 2013 IntelliTrace Core x86</Program>
+    <Program>Microsoft Visual C++  x64 Native Compilers</Program>
+    <Program>Microsoft Identity Extensions</Program>
+    <Program>Windows Azure Mobile Services Tools for Visual Studio 2013 Preview - v1.0</Program>
+  </Programs>
+</PC>

@@ -1,0 +1,6 @@
+C:\Users\Vojtěch\documents\visual studio 2012\Projects\Projekt_kraj\Projekt_kraj\bin\Release\Projekt_kraj.exe.config
+C:\Users\Vojtěch\Documents\Visual Studio 2012\Projects\Projekt_kraj\Projekt_kraj\bin\Release\Projekt_kraj.exe
+C:\Users\Vojtěch\Documents\Visual Studio 2012\Projects\Projekt_kraj\Projekt_kraj\bin\Release\Projekt_kraj.pdb
+C:\Users\Vojtěch\Documents\Visual Studio 2012\Projects\Projekt_kraj\Projekt_kraj\obj\Release\Projekt_kraj.csprojResolveAssemblyReference.cache
+C:\Users\Vojtěch\Documents\Visual Studio 2012\Projects\Projekt_kraj\Projekt_kraj\obj\Release\Projekt_kraj.exe
+C:\Users\Vojtěch\Documents\Visual Studio 2012\Projects\Projekt_kraj\Projekt_kraj\obj\Release\Projekt_kraj.pdb
